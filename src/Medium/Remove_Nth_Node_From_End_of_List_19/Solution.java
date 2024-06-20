@@ -1,4 +1,4 @@
-package Remove_Nth_Node_From_End_of_List_19;
+package Medium.Remove_Nth_Node_From_End_of_List_19;
 
 import Custom_Data_Structures.ListNode;
 

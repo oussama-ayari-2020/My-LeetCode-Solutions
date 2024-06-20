@@ -1,4 +1,4 @@
-package Search_in_Rotated_Sorted_Array_33;
+package Medium.Search_in_Rotated_Sorted_Array_33;
 
 class Solution {
     public int search(int[] nums, int target) {

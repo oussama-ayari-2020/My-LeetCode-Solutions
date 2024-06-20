@@ -1,4 +1,4 @@
-package Find_Minimum_in_Rotated_Sorted_Array_153;
+package Medium.Find_Minimum_in_Rotated_Sorted_Array_153;
 
 class Solution {
     public int findMin(int[] nums) {

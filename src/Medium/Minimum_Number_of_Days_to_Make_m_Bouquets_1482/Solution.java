@@ -1,4 +1,4 @@
-package Minimum_Number_of_Days_to_Make_m_Bouquets_1482;
+package Medium.Minimum_Number_of_Days_to_Make_m_Bouquets_1482;
 
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {

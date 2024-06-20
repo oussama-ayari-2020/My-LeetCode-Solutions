@@ -5,40 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08914aca-3904-444a-9725-9997b1ce5bb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a50b5fc92d370a2226c74d3b990f9f337bfc0a2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45a656177278b3ad7166fa88093b748d8d38c669" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/546f3cf88f8e83854d1a9e9b69c254c5b4044dac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b53382bb6d43ee40fc6ff34f30e0add49ea2c38e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d90b9b7ccbb7d0277e25c07c99503e5865605091" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e69bf9f9fa39dd11b637f1006bcf9ba6c739a9b6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0cc9124a314703e169a955d236cc6389df9cd50" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f380d31302ac64ccffd2daf7350cdc11cccd8527" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/a/3a50b5fc92d370a2226c74d3b990f9f337bfc0a2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/5/45a656177278b3ad7166fa88093b748d8d38c669" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/4/546f3cf88f8e83854d1a9e9b69c254c5b4044dac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/5/b53382bb6d43ee40fc6ff34f30e0add49ea2c38e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/9/d90b9b7ccbb7d0277e25c07c99503e5865605091" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/6/e69bf9f9fa39dd11b637f1006bcf9ba6c739a9b6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f0cc9124a314703e169a955d236cc6389df9cd50" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/3/f380d31302ac64ccffd2daf7350cdc11cccd8527" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Custom_Data_Structures/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Custom_Data_Structures/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Find_Minimum_in_Rotated_Sorted_Array_153/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Minimum_Number_of_Days_to_Make_m_Bouquets_1482/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remove_Nth_Node_From_End_of_List_19/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_in_Rotated_Sorted_Array_33/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/Same_Tree_100/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a50b5fc92d370a2226c74d3b990f9f337bfc0a2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a50b5fc92d370a2226c74d3b990f9f337bfc0a2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Custom_Data_Structures/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Custom_Data_Structures/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Find_Minimum_in_Rotated_Sorted_Array_153/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medium/Find_Minimum_in_Rotated_Sorted_Array_153/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Minimum_Number_of_Days_to_Make_m_Bouquets_1482/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medium/Minimum_Number_of_Days_to_Make_m_Bouquets_1482/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Remove_Nth_Node_From_End_of_List_19/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medium/Remove_Nth_Node_From_End_of_List_19/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search_in_Rotated_Sorted_Array_33/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medium/Search_in_Rotated_Sorted_Array_33/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "extract.method.default.visibility": "public",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -142,7 +118,7 @@
       <workItem from="1716805176952" duration="20000" />
       <workItem from="1718717538903" duration="3008000" />
       <workItem from="1718786287237" duration="4412000" />
-      <workItem from="1718876263162" duration="633000" />
+      <workItem from="1718876263162" duration="3512000" />
     </task>
     <servers />
   </component>
