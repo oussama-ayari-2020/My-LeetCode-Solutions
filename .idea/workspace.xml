@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08914aca-3904-444a-9725-9997b1ce5bb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Blind_75_Problems/Binary_Search/Koko_Eating_Bananas/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_A_Class/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Course_Schedule/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Matrix_BFS_Shortest_Path/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Matrix_Depth_First_Search/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Max_Area_of_Island/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Number_of_Islands/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Rotten_Oranges/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Spiral_Matrix_III/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6369a7074a11ddbe75fe0ebc00328a95ffd5ef12" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6369a7074a11ddbe75fe0ebc00328a95ffd5ef12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7cc62eb6cf7efa762ead30d97b6333cc3cdd684" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7cc62eb6cf7efa762ead30d97b6333cc3cdd684" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -54,6 +49,7 @@
     &quot;git-widget-placeholder&quot;: &quot;Blind__75__Solutions&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oussama/Documents/GitHub/E-Commerce-Backend&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -167,6 +163,9 @@
       <workItem from="1721639663787" duration="3918000" />
       <workItem from="1721864872766" duration="117000" />
       <workItem from="1721916938966" duration="636000" />
+      <workItem from="1722014932441" duration="345000" />
+      <workItem from="1722015290662" duration="38000" />
+      <workItem from="1723188033804" duration="1795000" />
     </task>
     <servers />
   </component>
